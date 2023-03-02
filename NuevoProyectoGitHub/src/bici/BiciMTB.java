@@ -22,7 +22,7 @@ public class BiciMTB {
 		this.numPlatos = 1;
 		this.esNueva = true;
 		this.precio = 0f;
-		this.velocidad = 0;
+		this.velocidad = 15;
 		this.averiada = false;
 	}
 
